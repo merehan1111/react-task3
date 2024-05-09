@@ -1,0 +1,14 @@
+img{
+    width: 100%;
+    height: fit-content;
+    margin: auto;
+    background-repeat: no-repeat;
+    height:100vh
+}
+.topp{
+    top: 40%;
+    left: 5%;
+}
+.h1-name{color:chocolate}
+.p-title{color: coral;}
+
